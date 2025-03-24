@@ -70,7 +70,7 @@ https://toys.whereis.social/ allows you to search for packages, services and cha
 - [Rakino](https://github.com/rakino/Testament)
 - [Krevedkokun](https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/src/guile/yggdrasil)
 
-Some more dotfiles here:
+More dotfiles here:
 
 - [Guix aggregator](https://github.com/aemogie/guix-aggregator)
 
