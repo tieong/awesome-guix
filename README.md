@@ -8,6 +8,8 @@ To contribute to this list, just send a PR.
 
 - [Official Resources](#️-official-resources)
 - [Channels](#-channels)
+- [Blogs](#-blogs)
+- [Guix in production](#-guix-in-production)
 - [Dotfiles](#-dotfiles)
 - [Videos](#-videos)
 - [Dotfiles](#-live-events)
@@ -28,12 +30,45 @@ https://toys.whereis.social/ allows you to search for packages, services and cha
 
   Useful to get your wifi working as this channel includes the full linux kernel.
 
+- [Guix-Android](https://framagit.org/tyreunom/guix-android)
+
+
+## Blogs
+
+- [Futurile](https://www.futurile.net/tag/guix.html)
+- [FA.NZ](https://f-a.nz/dev/)
+- [Lepiller](https://lepiller.eu/en/blog.html)
+- [Mathieu Othacehe](https://othacehe.org/blog.html)
+- [Octocurious](https://octocurious.com/blog/)
+- [Rendaw](https://rendaw.gitlab.io/blog/55daefcf49e2.html)
+- [Fishinthecalculator](https://fishinthecalculator.me/blog/secrets-management-with-sops-guix.html)
+- [GNUCode](https://gnucode.me/a-locally-running-dovecot-in-guix.html)
+- [Simon Tournier](https://simon.tournier.info/posts/)
+- [David Thompson](https://dthompson.us/index-1.html)
+- [Stumbles](https://stumbles.id.au/getting-started-with-guix-deploy.html)
+- [Peter Lo Leung Yau](https://peterloleungyau.github.io/post/more_guix_private_channel/#summary)
+- [Timmy douglas](https://timmydouglas.com/2021/02/07/guix-router.html)
+- [Sqrtminusone](https://sqrtminusone.xyz/configs/guix/)
+
+- Not a blog but lot of interesting notes [Kitnil](https://github.com/kitnil/notes/blob/master/guix.org)
+
+## Guix in production
+
+- [Guix farm](https://git.savannah.gnu.org/cgit/guix/maintenance.git/tree/hydra/berlin.scm)
+
 ## Dotfiles
 
 - [Efraim Flashner](https://git.sr.ht/~efraim/guix-config/tree "Efraim Flashner")
 - [sqrtminusone.xyz](https://sqrtminusone.xyz/configs/guix/)
 - [Boeg](https://git.sr.ht/~boeg/home/tree/master/item/.config/guix/system/config.scm "Boeg")
 - [Aartaka](https://github.com/aartaka/guix-config/blob/master/nonfree-desktop.scm "Aartaka")
+- [Raingloom](https://git.sr.ht/~raingloom/guix-source/tree)
+- [Jsoo](https://github.com/jsoo1/dotfiles/tree/release/guix)
+- [PolHuang](https://github.com/polhuang/dotfiles)
+- [Sunjukebox](https://github.com/SunJukebox/guix-config)
+- [Mrh](https://codeberg.org/mrh/dotfiles)
+- [Rakino](https://github.com/rakino/Testament)
+- [Krevedkokun](https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/src/guile/yggdrasil)
 
 ## Videos
 
