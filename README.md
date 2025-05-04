@@ -9,6 +9,7 @@ To contribute to this list, just send a PR.
 - [Official Resources](#️-official-resources)
 - [Channels](#-channels)
 - [Blogs](#-blogs)
+- [Chats](#-chats)
 - [Guix in production](#-guix-in-production)
 - [Dotfiles](#-dotfiles)
 - [Videos](#-videos)
@@ -19,6 +20,7 @@ To contribute to this list, just send a PR.
 
 - [Documentation](https://guix.gnu.org/en/help/)
 - [Blog](https://guix.gnu.org/en/blog/)
+- [IRC Webchat](https://web.libera.chat/?nick=PotentialUser-?#guix), or you can join the `#guix` channel on libera.chat with your favorite IRC client
 
 ## Channels
 
@@ -51,6 +53,15 @@ https://toys.whereis.social/ allows you to search for packages, services and cha
 - [Sqrtminusone](https://sqrtminusone.xyz/configs/guix/)
 
 - Not a blog but lot of interesting notes [Kitnil](https://github.com/kitnil/notes/blob/master/guix.org)
+
+## Chats
+
+The following are unofficial instant messaging communities managed by either contributors o Guix enthusiasts.
+
+- [Matrix](https://matrix.to/#/%23guix:matrix.org)
+- [XMPP](xmpp:guix@chat.disroot.org?join)
+- [Telegram English language](https://t.me/gnu_guix_en)
+- [Telegram Italian language](https://t.me/guixsd_ita)
 
 ## Guix in production
 
