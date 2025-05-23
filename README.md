@@ -80,6 +80,7 @@ The following are unofficial instant messaging communities managed by either con
 - [Mrh](https://codeberg.org/mrh/dotfiles)
 - [Rakino](https://github.com/rakino/Testament)
 - [Krevedkokun](https://git.sr.ht/~krevedkokun/dotfiles/tree/master/item/src/guile/yggdrasil)
+- [fishinthecalculator](https://codeberg.org/fishinthecalculator/guix-deployments)
 
 More dotfiles here:
 
