@@ -10,6 +10,7 @@ To contribute to this list, just send a PR.
 - [Channels](#-channels)
 - [Blogs](#-blogs)
 - [Chats](#-chats)
+- [Communities](#-communities)
 - [Guix in production](#-guix-in-production)
 - [Dotfiles](#-dotfiles)
 - [Videos](#-videos)
@@ -62,6 +63,14 @@ The following are unofficial instant messaging communities managed by either con
 - [XMPP](xmpp:guix@chat.disroot.org?join)
 - [Telegram English language](https://t.me/gnu_guix_en)
 - [Telegram Italian language](https://t.me/guixsd_ita)
+
+## Communities
+
+The following are unofficial asynchronous communities managed by either contributors o Guix enthusiasts.
+
+- [Lemmy](https://lemmy.ml/c/guix)
+- [Reddit](https://reddit.com/r/guix)
+- [System Crafters](https://forum.systemcrafters.net/c/guix/8)
 
 ## Guix in production
 
